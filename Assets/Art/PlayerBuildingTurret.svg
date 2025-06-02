@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="296" viewBox="0 0 256 296">
+  <!-- Hex base -->
+  <polygon points="128,24 236,82 236,214 128,272 20,214 20,82" fill="#88aaff" stroke="#224488" stroke-width="10"/>
+  <!-- Central body -->
+  <ellipse cx="128" cy="148" rx="44" ry="52" fill="#ffffff" stroke="#224488" stroke-width="8"/>
+  <!-- Cannon barrel -->
+  <rect x="116" y="22" width="24" height="70" rx="8" fill="#888" stroke="#333" stroke-width="5"/>
+  <!-- Cannon muzzle -->
+  <ellipse cx="128" cy="22" rx="15" ry="10" fill="#cccccc" stroke="#888" stroke-width="4"/>
+  <!-- Barrel accent lines -->
+  <rect x="120" y="52" width="16" height="10" fill="#cccccc"/>
+</svg>
